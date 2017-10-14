@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  GroceryBuddy
 //
 //  Created by Kevin Liao on 10/14/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class GroceryDetailController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
